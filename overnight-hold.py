@@ -1,0 +1,1 @@
+#Strategy for buying a stock at it's close, and selling it at it's open the next day
